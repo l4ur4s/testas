@@ -1,0 +1,5 @@
+{"ts":1359461739467,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1359461756754,"patch":[[{"diffs":[[1,"<?php\n"]],"start1":0,"start2":0,"length1":0,"length2":6}]],"length":6,"saved":false}
+{"ts":1359461761489,"patch":[[{"diffs":[[0,"<?php\n"],[1,"php"]],"start1":0,"start2":0,"length1":6,"length2":9}]],"length":9,"saved":false}
+{"ts":1359461764263,"patch":[[{"diffs":[[0,"?php\nphp"],[1,"info()"]],"start1":1,"start2":1,"length1":8,"length2":14}]],"length":15,"saved":false}
+{"ts":1359461782574,"patch":[[{"diffs":[[0,"hpinfo()"],[1,";"]],"start1":7,"start2":7,"length1":8,"length2":9}]],"length":16,"saved":false}
